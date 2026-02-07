@@ -1,2 +1,2 @@
 # Cryptocurrency
-Live Cryptocurrency Data Analysis Dashboard Using Power BI
+Live Cryptocurrency Data Analysis Using Power BI
