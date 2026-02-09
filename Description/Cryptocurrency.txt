@@ -1,0 +1,20 @@
+Cryptocurrency:
+Dashboard Analysis & Report :
+The dashboard uses various data visualization techniques to present a snapshot of the cryptocurrency market.
+Key Performance Indicators (KPIs): Large, prominent metric cards are used to show real-time or near real-time data for "Coin Count," "Market Cap," "Price Change Percentage 7d in Currency," "Price Change Percentage 24hr," and "Current Price".
+
+Time-Series Analysis: Line charts track the "All Time High by Year" for different cryptocurrencies, allowing users to visualize historical performance and long-term price fluctuations.
+
+Ranking/Comparison: A list or table is used to compare various "Wrapped" and "Staked" crypto assets (e.g., Wrapped Bitcoin, Lido Staked Ether) by their total count or sum of all-time lows and highs.
+Filtering and Interactivity: The presence of dropdown menus like "Name" and "All Time High by Year" indicates interactivity, allowing users to filter the displayed data dynamically.
+
+Data Aggregation: The data is aggregated from various sources, likely through APIs from crypto exchanges or data providers like Coin Gecko or Coin Market Cap, to provide a comprehensive market overview. 
+Tools and Techniques Used
+
+The likely tools and techniques involved in creating such a dashboard include:
+Data Source Integration: APIs (Application Programming Interfaces) are a fundamental technique used to fetch real-time and historical data from various cryptocurrency exchanges and data providers.
+
+Data Visualization Software: Tools like Power BI (visually similar templates were found in searches), Tableau, Looker Studio, or specialized crypto platforms like Trading View or Dune Analytics are used for designing the visual layout and generating the charts and tables.
+
+Visual Elements: The use of charts, tables, and metric cards are common components of business intelligence dashboards. 
+
